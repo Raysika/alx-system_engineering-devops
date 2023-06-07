@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p | LC_COLLATE=C sort -d -k1.1,1.1 -k1.2n -t/ | tr '\n' ',' ; echo
+ls -p | sort -d -1.1,1.k1 -2n.k1 -t/ | tr '\n' ','
