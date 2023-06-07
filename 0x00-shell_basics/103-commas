@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 ls -p | sort -d -1k.1,1.1 -1k.2n -t/ | tr '\n' ','
